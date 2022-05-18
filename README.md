@@ -1,1 +1,1 @@
-# AlgorithmePractice
+# AlgorithmPractice
